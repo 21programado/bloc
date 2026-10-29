@@ -1,0 +1,102 @@
+[
+  {
+    "id": "damas",
+    "nombre": "Damas 73",
+    "descripcion": "Juego de Damas clásico.",
+    "categoria": "Juegos",
+    "icon192": "damas-192.png",
+    "icon512": "damas-512.png",
+    "url": "https://damas73.vercel.app",
+    "version": "1.0"
+  },
+  {
+    "id": "tetris",
+    "nombre": "Tetris 73",
+    "descripcion": "Tetris clásico.",
+    "categoria": "Juegos",
+    "icon192": "tetris-192.png",
+    "icon512": "tetris-512.png",
+    "url": "https://tetris73.vercel.app",
+    "version": "1.0"
+  },
+  {
+    "id": "buscaminas",
+    "nombre": "Buscaminas 73",
+    "descripcion": "Juego Buscaminas.",
+    "categoria": "Juegos",
+    "icon192": "buscaminas-192.png",
+    "icon512": "buscaminas-512.png",
+    "url": "https://buscaminas73.netlify.app",
+    "version": "1.0"
+  },
+  {
+    "id": "galaxi",
+    "nombre": "Galaxi 73",
+    "descripcion": "Juego espacial.",
+    "categoria": "Juegos",
+    "icon192": "galaxi-192.png",
+    "icon512": "galaxi-512.png",
+    "url": "https://galaxi73.pages.dev",
+    "version": "1.0"
+  },
+  {
+    "id": "puzzle",
+    "nombre": "Puzzle 73",
+    "descripcion": "Juego Puzzle.",
+    "categoria": "Juegos",
+    "icon192": "puzzle-192.png",
+    "icon512": "puzzle-512.png",
+    "url": "https://21programado.github.io/puzzle/",
+    "version": "1.0"
+  },
+  {
+    "id": "tateti",
+    "nombre": "Tateti 73",
+    "descripcion": "Juego Tateti.",
+    "categoria": "Juegos",
+    "icon192": "tateti-192.png",
+    "icon512": "tateti-512.png",
+    "url": "https://21programado.github.io/tateti/",
+    "version": "1.0"
+  },
+  {
+    "id": "lenete",
+    "nombre": "Lenete Jump",
+    "descripcion": "Juego con perrita.",
+    "categoria": "Juegos",
+    "icon192": "lenete-192.png",
+    "icon512": "lenete-512.png",
+    "url": "https://lenetejump.vercel.app/",
+    "version": "1.0"
+  },
+  {
+    "id": "ruleta",
+    "nombre": "Ruleta editable",
+    "descripcion": "Ruleta para múltiples propósitos.",
+    "categoria": "Herramientas",
+    "icon192": "ruleta-192.png",
+    "icon512": "ruleta-512.png",
+    "url": "https://ruleta73.pages.dev/",
+    "version": "1.0"
+  },
+  {
+    "id": "impostor",
+    "nombre": "El Impostor",
+    "descripcion": "Aplicación para jugar al Impostor.",
+    "categoria": "Herramientas",
+    "icon192": "impostor-192.png",
+    "icon512": "impostor-512.png",
+    "url": "https://losimpostores.vercel.app/",
+    "version": "1.0"
+  },
+  {
+    "id": "bloc",
+    "nombre": "Bloc de notas",
+    "descripcion": "Bloc de notas minimalista.",
+    "categoria": "Herramientas",
+    "icon192": "bloc-192.png",
+    "icon512": "bloc-512.png",
+    "url": "https://bloc-gold.vercel.app/",
+    "version": "1.0"
+  }
+]
